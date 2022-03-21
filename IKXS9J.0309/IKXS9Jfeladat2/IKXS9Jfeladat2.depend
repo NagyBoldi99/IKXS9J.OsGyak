@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1647889799 source:c:\users\boldi\documents\github\ikxs9j.osgyak\ikxs9j.0309\ikxs9jfeladat2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<sys/types.h>
+
