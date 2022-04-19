@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1649251653 source:c:\users\xy\documents\github\ikxs9j.osgyak\ikxs9j.0406\ikxs9j_gyak9_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<sys/types.h>
+	<unistd.h>
+	<signal.h>
+

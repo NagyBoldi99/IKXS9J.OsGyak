@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1649249632 source:c:\users\xy\documents\github\ikxs9j.osgyak\ikxs9j.0406\ikxs9j_openclose\main.c
+	<stdio.h>
+	<stdlib.h>
+	<fcntl.h>
+	<unistd.h>
+	<errno.h>
+
