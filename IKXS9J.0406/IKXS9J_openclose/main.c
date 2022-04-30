@@ -9,7 +9,6 @@ int main(void) {
     char *buf[100];
     int len;
 
-
     if ((fd = open("IKXS9J.txt", O_RDWR)) < 0) {
         perror("open hiba");
         return -1;
@@ -36,7 +35,7 @@ int main(void) {
         perror("write hiba");
         return -1;
     }
-    printf("%d byte kiirva\n", len);
+    printf("%d byte kiírva\n", len);
 
     close(fd);
     return 0;
