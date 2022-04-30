@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1649850199 source:c:\users\xy\documents\github\ikxs9j.osgyak\ikxs9j.0413\named.out\main.c
+	<stdio.h>
+	<stdlib.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<fcntl.h>
+	<signal.h>
+
