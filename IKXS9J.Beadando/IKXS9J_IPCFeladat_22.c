@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<sys/types.h>
 #include<unistd.h>
-//#include<sys/wait.h>
+#include<sys/wait.h>
 #include<time.h>
 int main()
 {
@@ -12,12 +12,13 @@ int main()
 	if(gy==0){
 	
 		system("/bin/ls -R");
+		gy=1;
 		sleep(3);
-		exit(1);
+		//exit(1);
 	}
 	else{
 	
-		WaitForSingleObject(&st);
+		wait(&st);
 		printf("visszatert: %d",gy);
 		
 	}
